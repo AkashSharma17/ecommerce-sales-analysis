@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated outputs (runtime artifacts)
+logs/
+visualization/
+data/cleaned/
+data/processed/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
